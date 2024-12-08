@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Ioannis Pavlos Zoulakis"
+  #name             : "Ioannis Pavlos Zoulakis"
   pronouns         : # example: "she/her"  
   bio              : "MSc. student in All-Electric Propulsion Systems, Uppsala University"
   location         : "Earth"
