@@ -23,9 +23,9 @@ Interested in research centered around Power Electronics and Electric Motors app
 
 Getting started
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Sc. in "All-Electric Propulsion Systems", Uppsala University, 2024-2026
+* Diploma in Electrical Engineering, Democritus University of Thrace, 2018-2023
+  * Grade: 8.42/10 (top 2% of my class/169 students)
 
 Site-wide configuration
 ------
