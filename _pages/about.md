@@ -18,6 +18,7 @@ Last but not least, I have the privilege of being honored with scholarships due 
 
 Research interests
 ======
+Interested in research centered around Power Electronics and Electric Motors applied in electrified vehicles, from many different perspectives; Design, Control and Electromagnetics. Over the current period, I am searching for a summer job which will provide me the opportunity to apply my knowledge in a specific project. Please, feel free to reach me out if the interest is bidirectional.
 
 
 Getting started
