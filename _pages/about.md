@@ -21,10 +21,10 @@ Research interests
 Interested in research centered around Power Electronics and Electric Motors applied in electrified vehicles, from many different perspectives; Design, Control and Electromagnetics. Over the current period, I am searching for a summer job which will provide me the opportunity to apply my knowledge in a specific project. Please, feel free to reach me out if the interest is bidirectional.
 
 
-Getting started
+Education
 ======
-* M.Sc. in "All-Electric Propulsion Systems", Uppsala University, 2024-2026
-* Diploma in Electrical Engineering, Democritus University of Thrace, 2018-2023
+* M.Sc. in "All-Electric Propulsion Systems" (120 credits), Uppsala University, 2024-2026
+* Diploma in Electrical Engineering (300 credits), Democritus University of Thrace, 2018-2023
   * Grade: 8.42/10 (top 2% of my class/169 students)
 
 Site-wide configuration
