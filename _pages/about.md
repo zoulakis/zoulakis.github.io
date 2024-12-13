@@ -25,8 +25,8 @@ Education
 ======
 * M.Sc. in "All-Electric Propulsion Systems" (120 credits), Uppsala University, 2024-2026
 * Diploma in Electrical Engineering (300 credits), Democritus University of Thrace, 2018-2023
-  * Grade: 8.42/10 (top 2% of my class/169 students)
-  * Specialization area: Electronics (with Georgios. Ch. Sirakoulis as advisor)
+  * Grade: 8.42/10 (top 2% of my class: 169 students)
+  * Specialization area: Electronics (advisor: Georgios Ch. Sirakoulis)
 
 Site-wide configuration
 ------
