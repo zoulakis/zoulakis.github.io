@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Ioannis Pavlos Zoulakis and I come from two beautiful islands of Greece, Kefalonia and Crete. I was born in Athens in 2000 to two mathematicians, and today, I am a master's student in 'All-Electric Propulsion Systems' at Uppsala University.
+My name is Ioannis Pavlos Zoulakis and I come from two beautiful islands of Greece, Kefalonia and Crete. I was born in Athens in 2000 to two mathematicians, and today, I am a master's student in 'All-Electric Propulsion Systems' at Uppsala University. 
+
+Before moving to Sweden, I studied Electrical and Computer Engineering in Democritus University of Thrace. I was specialized in Electronics and my diploma thesis was conducted under the supervision of [Georgios Ch. Sirakoulis](https://scholar.google.gr/citations?user=WhBartYAAAAJ&hl=el).
 
 A data-driven personal website
 ======
