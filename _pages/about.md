@@ -11,8 +11,6 @@ My name is Ioannis Pavlos Zoulakis and I come from two beautiful islands of Gree
 
 Before moving to Sweden, I studied Electrical and Computer Engineering at Democritus University of Thrace. I was specialized in Electronics and my diploma thesis was conducted under the supervision of [Georgios Ch. Sirakoulis](https://scholar.google.gr/citations?user=WhBartYAAAAJ&hl=el). During my Bachelor studies, I also enjoyed a professional research experience in National Center for Scientific Research [Demokritos](https://www.demokritos.gr/), as also a volunteer respective one in [Democritus Racing Team](https://drt-racing.duth.gr/en/).
 
-Last but not least, I have the privilege of being honored with scholarships for academic excellence, such as the one from [John S. Latsis Public Benefit Foundation](https://www.latsis-foundation.org/eng) and from [Hellenic Marine Environment Protection Association](https://www.helmepa.gr/en/).
-
 
 
 Research interests
