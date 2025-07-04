@@ -14,7 +14,7 @@ Before moving to Sweden, I studied Electrical and Computer Engineering at Democr
 
 Research interests
 ======
-Interested in research centered around Power Electronics and Electric Motors applied in electrified vehicles, from many different perspectives; Design, Control and Electromagnetics. Over the current period, I am searching for a summer job which will provide me the opportunity to apply my knowledge in a specific project. Please, feel free to reach me out if the interest is bidirectional.
+I am interested in research centered around the field of Power Conversion: Power Electronics and Electric Motors from many different perspectives; Design, Control and Electromagnetics. Over the current period, I am in search of an appropriate master thesis which will provide me the opportunity to apply my knowledge in a specific project. Please, feel free to reach me out if the interest is bidirectional.
 
 
 Education
@@ -27,4 +27,4 @@ Education
 
 For more info
 ------
-Please contact me at j.zoulakis@gmail.com or at ioannis-pavlos.zoulakis@student.uu.se.
+Please contact me at ipzoulakis@gmail.com or at ioannis-pavlos.zoulakis@student.uu.se.
