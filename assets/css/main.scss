@@ -39,3 +39,10 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.author__avatar img {
+  width: 150px;         /* or any size you prefer */
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;     /* square; change to 50% for circle, or 10px etc for rounded corners */
+}
