@@ -41,8 +41,8 @@
 @import "print";
 
 .author__avatar img {
-  width: 150px;         /* or any size you prefer */
+  width: 150px;         
   height: 150px;
   object-fit: cover;
-  border-radius: 0%;     /* square; change to 50% for circle, or 10px etc for rounded corners */
+  border-radius: 0%;     
 }
