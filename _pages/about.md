@@ -27,4 +27,4 @@ Education
 
 For more info
 ------
-Please contact me at ipzoulakis@gmail.com or at ioannis-pavlos.zoulakis@student.uu.se.
+Please contact me at ipzoulakis@gmail.com or at ioannis-pavlos.zoulakis.7350@student.uu.se.
