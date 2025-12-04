@@ -27,4 +27,4 @@ Education
 
 For more info
 ------
-Please contact me at ipzoulakis@gmail.com or at ioannis-pavlos.zoulakis.7350@student.uu.se.
+I am accepting job offers (summer job, internships or graduate ones) from 2026 summer onward, for further discussion reach me in izoulakis@ethz.ch
