@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-My name is Ioannis Pavlos Zoulakis and I am a master-thesis student in [High Power Electronics Laboratory](https://hpe.ee.ethz.ch) of [Jürgen Biela](https://ee.ethz.ch/the-department/people-a-z/person-detail.j-biela.html) in ETH Zürich. My research interests lie principally in magnetics but broadly to design and control of power electronics (DC/DC, DC/AC and AC/DC) and electric motors (of all types) for power conversion applications.
+My name is Ioannis Pavlos Zoulakis and I am a master-thesis student in [High Power Electronics Laboratory](https://hpe.ee.ethz.ch) of Prof. [Jürgen Biela](https://ee.ethz.ch/the-department/people-a-z/person-detail.j-biela.html) in ETH Zürich. My research interests lie principally in magnetics but broadly to design and control of power electronics (DC/DC, DC/AC and AC/DC) and electric motors (of all types) for power conversion applications.
 
 
 Background
 ======
-Before moving to Sweden and start my master-level studies in ''All-Electric Propulsion Systems'' programme of Uppsala University, which I served as Teaching Assistant. I studied Electrical and Computer Engineering at Democritus University of Thrace. I was specialized in electronics and my diploma thesis was conducted under the supervision of [Georgios Ch. Sirakoulis](https://scholar.google.gr/citations?user=WhBartYAAAAJ&hl=el). During my bachelor studies I also enjoyed a professional research experience in National Center for Scientific Research [Demokritos](https://www.demokritos.gr/), as also a volunteer respective one in [Democritus Racing Team](https://drt-racing.duth.gr/en/).
+My master-level studies have been experienced in the ''All-Electric Propulsion Systems'' programme of Uppsala University, which I have served as Teaching Assistant. I studied Electrical and Computer Engineering at Democritus University of Thrace. I was specialized in electronics and my diploma thesis was conducted under the supervision of Prof. [Georgios Ch. Sirakoulis](https://scholar.google.gr/citations?user=WhBartYAAAAJ&hl=el). During my bachelor studies I also enjoyed a professional research experience in National Center for Scientific Research [Demokritos](https://www.demokritos.gr/), as also a volunteer respective one in [Democritus Racing Team](https://drt-racing.duth.gr/en/).
 
 
 Education
