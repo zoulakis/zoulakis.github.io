@@ -7,22 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-My name is Ioannis Pavlos Zoulakis and I come from two beautiful islands of Greece, Kefalonia and Crete. I was born in Athens in 2000 to two mathematicians and, nowadays, I am a MSc. student in "All-Electric Propulsion Systems" at Uppsala University. 
-
-Before moving to Sweden, I studied Electrical and Computer Engineering at Democritus University of Thrace. I was specialized in Electronics and my diploma thesis was conducted under the supervision of [Georgios Ch. Sirakoulis](https://scholar.google.gr/citations?user=WhBartYAAAAJ&hl=el). During my Bachelor studies, I also enjoyed a professional research experience in National Center for Scientific Research [Demokritos](https://www.demokritos.gr/), as also a volunteer respective one in [Democritus Racing Team](https://drt-racing.duth.gr/en/).
+My name is Ioannis Pavlos Zoulakis and I am a master-thesis student in [High Power Electronics Laboratory](https://hpe.ee.ethz.ch) of [Jürgen Biela](https://hpe.ee.ethz.ch) in ETH Zürich. My research interests lie principally in magnetics but broadly to design and control of power electronics (DC/DC, DC/AC and AC/DC) and electric motors (of all types) for power conversion applications.
 
 
-Research interests
+Background
 ======
-I am interested in research centered around the field of Power Conversion: Power Electronics and Electric Motors from many different perspectives; Design, Control and Electromagnetics. Over the current period, I am in search of an appropriate master thesis which will provide me the opportunity to apply my knowledge in a specific project. Please, feel free to reach me out if the interest is bidirectional.
+Before moving to Sweden and start my master-level studies in ''All-Electric Propulsion Systems'' programme of Uppsala University, which I served as Teaching Assistant. I studied Electrical and Computer Engineering at Democritus University of Thrace. I was specialized in electronics and my diploma thesis was conducted under the supervision of [Georgios Ch. Sirakoulis](https://scholar.google.gr/citations?user=WhBartYAAAAJ&hl=el). During my bachelor studies I also enjoyed a professional research experience in National Center for Scientific Research [Demokritos](https://www.demokritos.gr/), as also a volunteer respective one in [Democritus Racing Team](https://drt-racing.duth.gr/en/).
 
 
 Education
 ======
 * M.Sc. in "All-Electric Propulsion Systems" (120 credits), Uppsala University, 2024-2026
+  * Ongoing master-thesis: Thermal modelling of magnetic cores for power electronics (offered in ETH Zürich)
+  * CGPA: 4.20/5
 * Diploma in Electrical Engineering (300 credits), Democritus University of Thrace, 2018-2023
-  * Grade: 8.42/10 (top 2% of my class: 169 students)
-  * Specialization area: Electronics (advisor: Georgios Ch. Sirakoulis)
+  * Specialization area: Electronics 
+  * GPA: 8.42/10 (top 2% of my class: 169 students)
 
 
 For more info
