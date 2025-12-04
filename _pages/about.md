@@ -12,7 +12,7 @@ My name is Ioannis Pavlos Zoulakis and I am a master-thesis student in [High Pow
 
 Background
 ======
-My master-level studies have been experienced in the ''All-Electric Propulsion Systems'' programme of Uppsala University, which I have served as Teaching Assistant. I studied Electrical and Computer Engineering at Democritus University of Thrace. I was specialized in electronics and my diploma thesis was conducted under the supervision of Prof. [Georgios Ch. Sirakoulis](https://scholar.google.gr/citations?user=WhBartYAAAAJ&hl=el). During my bachelor studies I also enjoyed a professional research experience in National Center for Scientific Research [Demokritos](https://www.demokritos.gr/), as also a volunteer respective one in [Democritus Racing Team](https://drt-racing.duth.gr/en/).
+My master-level studies have been experienced in the ''All-Electric Propulsion Systems'' programme of Uppsala University, which I have served as Teaching Assistant. For my bachelor's degree, I studied Electrical and Computer Engineering at Democritus University of Thrace with a further specialization in electronics while my diploma thesis was conducted under the supervision of Prof. [Georgios Ch. Sirakoulis](https://scholar.google.gr/citations?user=WhBartYAAAAJ&hl=el). During my bachelor studies I also enjoyed a professional research experience in National Center for Scientific Research [Demokritos](https://www.demokritos.gr/), as also a volunteer respective one in [Democritus Racing Team](https://drt-racing.duth.gr/en/).
 
 
 Education
