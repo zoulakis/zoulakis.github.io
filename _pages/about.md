@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Ioannis Pavlos Zoulakis and I am a master-thesis student in [High Power Electronics Laboratory](https://hpe.ee.ethz.ch) of Prof. [Jürgen Biela](https://ee.ethz.ch/the-department/people-a-z/person-detail.j-biela.html) in ETH Zürich. My research interests lie principally in magnetics but broadly to design and control of power electronics (DC/DC, DC/AC and AC/DC) and electric motors (of all types) for power conversion applications.
+My name is Ioannis Pavlos Zoulakis and I am a master-thesis student in [High Power Electronics Laboratory](https://hpe.ee.ethz.ch) of Prof. [Jürgen Biela](https://ee.ethz.ch/the-department/people-a-z/person-detail.j-biela.html) in ETH Zürich. My research interests lie principally in magnetics but broadly to design and control of power electronics (DC/DC and DC/AC) and electric motors (Induction, PMSM and self-excited ones) for power conversion applications.
 
 
 Background
@@ -27,4 +27,4 @@ Education
 
 For more info
 ------
-I am accepting job offers (summer job, internships or graduate ones) from 2026 summer onward, for further discussion reach me in izoulakis@ethz.ch
+I am looking for internships or graduate jobs from 2026 summer onward, for further discussion reach me in izoulakis@ethz.ch
