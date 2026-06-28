@@ -23,7 +23,7 @@ For my bachelor's degree, I studied Electrical and Computer Engineering at Democ
 Academic Services
 ======
 * Digest-reviewer of [ECCE Europe](https://www.ecce-europe.org/2026/) (from 03.2026)
-* Teaching Assistant in the master-course of ''Safety and Security in Control Systems'' (1RT004) in Uppsala University (03.2025-07-2025)
+* Teaching Assistant in the master-course of ''Safety and Security in Control Systems'' (1RT004) in Uppsala University (03.2025-07.2025)
 
   
 Honors and Awards
