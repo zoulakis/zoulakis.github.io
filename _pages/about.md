@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is Ioannis Pavlos Zoulakis and I am a master-student in ETH Zürich. Specifically, a thesis-member of [High Power Electronics Laboratory](https://hpe.ee.ethz.ch), led by Prof. [Jürgen Biela](https://ee.ethz.ch/the-department/people-a-z/person-detail.j-biela.html). My research interests lie principally in power magnetics from all different perspectives: electromagnetic, thermal and material ones while, my master-thesis focuses on modelling of magnetic cores used in power converters. 
+My name is Ioannis Pavlos Zoulakis and I am a master-student in ETH Zürich. Specifically, a thesis-member of [High Power Electronics Laboratory](https://hpe.ee.ethz.ch), led by Prof. Jürgen Biela. My research interests lie principally in power magnetics from all different perspectives: electromagnetic, thermal and material ones while, my master-thesis focuses on modelling of magnetic cores used in power converters. 
 
 For the time being, I am developing models that describe the thermal behavior of block and toroidal cores, considering the impact of generated losses or chosen material. The models I implement are expressed in 1D and 2D, including the transient phase and anisotropics. The analytical models are tested under different cooling conditions (natural or forced convection, as also thermal insulation) and compared with concurrently implemented Reduced-Order ones (Lumped-Capacitance oriented and Thermal Networks). 
 
-Nonetheless, I am broadly interested in the design and control of power electronics and electric motors for power conversion applications, while, in parallel, from March of 2026 I am a digest-reviewer in the ECCE.
+Nonetheless, I am broadly interested in the design and control of power electronics and electric motors for power conversion applications.
 
 
 Background
@@ -20,6 +20,12 @@ My master-level courses have been experienced in the ''All-Electric Propulsion S
 
 For my bachelor's degree, I studied Electrical and Computer Engineering at Democritus University of Thrace with a further specialization in electronics. My diploma thesis was conducted under the supervision of Prof. [Georgios Ch. Sirakoulis](https://scholar.google.gr/citations?user=WhBartYAAAAJ&hl=el). Over my bachelor years, I also enjoyed a professional research experience in National Center for Scientific Research [Demokritos](https://www.demokritos.gr/), as also a volunteer respective one in [Democritus Racing Team](https://drt-racing.duth.gr/en/).
 
+Academic Services
+======
+* Digest-reviewer of [ECCE Europe](https://www.ecce-europe.org/2026/) (from 03.2026)
+* Teaching Assistant in the master-course of ''Safety and Security in Control Systems'' (1RT004) in Uppsala University (03.2025-07-2025)
+
+  
 Honors and Awards
 ======
 My academic path has been honored and financially supported by:  
