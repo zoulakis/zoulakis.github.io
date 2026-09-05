@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Ioannis Pavlos Zoulakis and I am a master-student in ETH Zürich. Specifically, a thesis-member of [High Power Electronics Laboratory](https://hpe.ee.ethz.ch), led by Prof. Jürgen Biela. Heart of my research interests lie in the multi-objective optimization of power conversion devices (power electronics, electrical motors and actuators) from electromagnetic, thermal and mechanical perspective.
+My name is Ioannis Pavlos Zoulakis and I am a master-student in ETH Zürich. Specifically, a thesis-member of [High Power Electronics Laboratory](https://hpe.ee.ethz.ch), led by Prof. Jürgen Biela. The heart of my research interests lies in the multi-objective optimization of power conversion devices (power electronics, electrical motors and actuators) from electromagnetic, thermal and mechanical perspective.
 
 For the time being, I am developing models that describe the thermal behavior of block and toroidal cores used in DC/DC converters, considering the impact of generated losses or chosen material. The models I implement are expressed in 1D and 2D, including the transient phase and anisotropics. The analytical models are tested under different cooling conditions (natural or forced convection, as also thermal insulation) and compared with concurrently implemented Reduced-Order ones (Lumped-Capacitance oriented and Thermal Networks). 
 
@@ -20,6 +20,7 @@ For my bachelor's degree, I studied Electrical and Computer Engineering at Democ
 
 Academic Services
 ======
+* Digest-reviewer of [APEC](https://apec-conf.org) (from 09.2026)
 * Digest-reviewer of [ECCE Europe](https://www.ecce-europe.org/2026/) (from 03.2026)
 * Teaching Assistant in the master-course of ''Safety and Security in Control Systems'' (1RT004) in Uppsala University (03.2025-07.2025)
 
@@ -47,9 +48,9 @@ Notable Projects
 * Wireless-control of a setup of waveform generator-power amplifier-climate chamber-data loggers for measuring through a thermocouple of type-T surface temperatures of toroidal magnetic cores over excitation periods
 * Characterization of ferrite, powder and nanocrystalline cores in a B-H analyzer
 * Development of Thermal Networks (inspired by the lumped-capacitance method) for magnetic materials
-* Design of 5 and 7-level cascaded H-bridge marine power inverters of power output up to 27 kW output peak power – Uppsala University; sponsored by Volvo Penta
-* Electromagnetic, thermal and mechanical multiphysics optimization of a 400 V / 300 A EV traction motor for 100 Nm at 4,000 rpm – Uppsala University
-* 2025 FPGA-based control of a 48 V BLDC motor using Pulse Width Modulation (PWM) and Field-Oriented Control (FOC) – Uppsala University
+* Design of 5 and 7-level cascaded H-bridge marine power inverters of power output up to 27 kW output peak power
+* Electromagnetic, thermal and mechanical multiphysics optimization of a 400 V / 300 A EV traction motor for 100 Nm at 4,000 rpm
+* FPGA-based control of a 48 V BLDC motor using Pulse Width Modulation (PWM) and Field-Oriented Control (FOC)
 * Design, realization and bench-testing of a single-phase 15 VDC input source full-bridge inverter
 * Design of one RC-Thevenin Equivalent Circuit for a Kalman Filter of BMS 
 
