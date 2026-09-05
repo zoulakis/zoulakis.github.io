@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Ioannis Pavlos Zoulakis and I am a master-student in ETH Zürich. Specifically, a thesis-member of [High Power Electronics Laboratory](https://hpe.ee.ethz.ch), led by Prof. Jürgen Biela. My research interests lie principally in power magnetics from all different perspectives: electromagnetic, thermal and material ones while, my master-thesis focuses on modelling of magnetic cores used in power converters. 
+My name is Ioannis Pavlos Zoulakis and I am a master-student in ETH Zürich. Specifically, a thesis-member of [High Power Electronics Laboratory](https://hpe.ee.ethz.ch), led by Prof. Jürgen Biela. Heart of my research interests lie in the multi-objective optimization of power conversion devices (power electronics, electrical motors and actuators) from electromagnetic, thermal and mechanical perspective.
 
-For the time being, I am developing models that describe the thermal behavior of block and toroidal cores, considering the impact of generated losses or chosen material. The models I implement are expressed in 1D and 2D, including the transient phase and anisotropics. The analytical models are tested under different cooling conditions (natural or forced convection, as also thermal insulation) and compared with concurrently implemented Reduced-Order ones (Lumped-Capacitance oriented and Thermal Networks). 
-
-Nonetheless, I am broadly interested in the design and control of power electronics and electric motors for power conversion applications.
+For the time being, I am developing models that describe the thermal behavior of block and toroidal cores used in DC/DC converters, considering the impact of generated losses or chosen material. The models I implement are expressed in 1D and 2D, including the transient phase and anisotropics. The analytical models are tested under different cooling conditions (natural or forced convection, as also thermal insulation) and compared with concurrently implemented Reduced-Order ones (Lumped-Capacitance oriented and Thermal Networks). 
 
 
 Background
@@ -42,8 +40,19 @@ Education
 * Diploma in Electrical Engineering (300 credits), Democritus University of Thrace, 2018-2023
   * Specialization area: Electronics 
   * GPA: 8.42/10 (top 2% of my class: 169 students)
-
+ 
+Notable Projects
+======
+* Development of 1D/2D thermal models for predicting the temperature distribution/hotspots in magnetic cores
+* Wireless-control of a setup of waveform generator-power amplifier-climate chamber-data loggers for measuring through a thermocouple of type-T surface temperatures of toroidal magnetic cores over excitation periods
+* Characterization of ferrite, powder and nanocrystalline cores in a B-H analyzer
+* Development of Thermal Networks (inspired by the lumped-capacitance method) for magnetic materials
+* Design of 5 and 7-level cascaded H-bridge marine power inverters of power output up to 27 kW output peak power – Uppsala University; sponsored by Volvo Penta
+* Electromagnetic, thermal and mechanical multiphysics optimization of a 400 V / 300 A EV traction motor for 100 Nm at 4,000 rpm – Uppsala University
+* 2025 FPGA-based control of a 48 V BLDC motor using Pulse Width Modulation (PWM) and Field-Oriented Control (FOC) – Uppsala University
+* Design, realization and bench-testing of a single-phase 15 VDC input source full-bridge inverter
+* Design of one RC-Thevenin Equivalent Circuit for a Kalman Filter of BMS 
 
 For more info
 ------
-I am looking for internships or graduate jobs from 2026 summer onward, for further discussion reach me in izoulakis@ethz.ch
+I am looking for internships or graduate jobs starting from 2026 September onward, for further discussion reach me in ipzoulakis@gmail.com
