@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Ioannis Pavlos Zoulakis and I am an electromagnetic actuator designer, working for Robatech AG in Muri, Aargau, Switzerland. I conducted my master-studies in electric power conversion field in Uppsala University (courses) and ETH Zürich (thesis), while I also keep a bachelor in electrical engineering from Democritus University of Thrace. The heart of my research interests lies in the multi-objective optimization of power conversion devices (power electronics, electrical motors and actuators) from electromagnetic, thermal and mechanical perspective. 
+My name is Ioannis Pavlos Zoulakis and I am an electromagnetic actuator designer, working for Robatech AG in Muri, Aargau, Switzerland. I conducted my master-studies in electric power conversion field in Uppsala University (courses) and ETH Zürich (thesis), while I also keep a bachelor in electrical engineering from Democritus University of Thrace. The heart of my research interests lies in the multi-objective optimization of power conversion devices (power electronics, electrical motors and actuators) from electromagnetic, thermal and mechanical perspective.
 
 
 Background
