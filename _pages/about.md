@@ -7,16 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-My name is Ioannis Pavlos Zoulakis and I am a master-student in ETH Zürich. Specifically, a thesis-member of [High Power Electronics Laboratory](https://hpe.ee.ethz.ch), led by Prof. Jürgen Biela. The heart of my research interests lies in the multi-objective optimization of power conversion devices (power electronics, electrical motors and actuators) from electromagnetic, thermal and mechanical perspective.
-
-For the time being, I am developing models that describe the thermal behavior of block and toroidal cores used in DC/DC converters, considering the impact of generated losses or chosen material. The models I implement are expressed in 1D and 2D, including the transient phase and anisotropics. The analytical models are tested under different cooling conditions (natural or forced convection, as also thermal insulation) and compared with concurrently implemented Reduced-Order ones (Lumped-Capacitance oriented and Thermal Networks). 
+My name is Ioannis Pavlos Zoulakis and I am an electromagnetic actuator designer, working for Robatech AG in Muri, Aargau, Switzerland. My master studies in electric power conversion field were conducted in Uppsala University (courses) and ETH Zürich (thesis). Furthermore, I keep a bachelor in electrical engineering from Democritus University of Thrace. Heart of my research interests is the multi-objective optimization of power conversion devices (power electronics, electrical motors and actuators) from electromagnetic, thermal and mechanical perspective.
 
 
 Background
 ======
-My master-level courses have been experienced in the ''All-Electric Propulsion Systems'' programme of Uppsala University (UU). In Uppsala, I was offered a Teaching Assistant while, I was fortunate enough to work next to [Pedro V. Rodriguez](https://patents.google.com/?inventor=Pedro+Rodriguez) in the context of semester-projects.
+For my bachelor's degree, I studied electrical and computer engineering at Democritus University of Thrace with a further specialization in electronics. My diploma thesis was conducted under the supervision of Prof. [Georgios Ch. Sirakoulis](https://scholar.google.gr/citations?user=WhBartYAAAAJ&hl=el). Over my bachelor years, I also enjoyed a professional research experience in National Center for Scientific Research [Demokritos](https://www.demokritos.gr/), as also a volunteer respective one in [Democritus Racing Team](https://drt-racing.duth.gr/en/).
 
-For my bachelor's degree, I studied Electrical and Computer Engineering at Democritus University of Thrace with a further specialization in electronics. My diploma thesis was conducted under the supervision of Prof. [Georgios Ch. Sirakoulis](https://scholar.google.gr/citations?user=WhBartYAAAAJ&hl=el). Over my bachelor years, I also enjoyed a professional research experience in National Center for Scientific Research [Demokritos](https://www.demokritos.gr/), as also a volunteer respective one in [Democritus Racing Team](https://drt-racing.duth.gr/en/).
+The first part of my master studies was experienced through courses in the ''All-Electric Propulsion Systems'' programme of Uppsala University (UU). In Uppsala, I was also offered a Teaching Assistant while, I was fortunate enough to work next to [Pedro V. Rodriguez](https://patents.google.com/?inventor=Pedro+Rodriguez) in the context of semester-projects. In the second part of my master studies, I joined as a thesis-member the [High Power Electronics Laboratory](https://hpe.ee.ethz.ch), led by Prof. Jürgen Biela, researching towards the thermal modelling of magnetic cores.
 
 Academic Services
 ======
@@ -35,25 +33,25 @@ My academic path has been honored and financially supported by:
 
 Education
 ======
-* M.Sc. in "All-Electric Propulsion Systems" (120 credits), Uppsala University, 2024-Present
-  * Ongoing master-thesis: Thermal modelling of magnetic cores for power electronics (offered in ETH Zürich)
+* M.Sc. in "All-Electric Propulsion Systems", Uppsala University (courses, 90 credits) and ETH Zürich (thesis, 30 xredits), 2024-Present
+  * Master thesis: Thermal modelling of magnetic cores for power electronics
   * CGPA: 4.15/5
-* Diploma in Electrical Engineering (300 credits), Democritus University of Thrace, 2018-2023
+* Diploma in Electrical Engineering, Democritus University of Thrace (courses and thesis, 300 credits), 2018-2023
   * Specialization area: Electronics 
-  * GPA: 8.42/10 (top 2% of my class: 169 students)
+  * GPA: 8.42/10
  
 Notable Projects
 ======
 * Development of 1D/2D thermal models for predicting the temperature distribution/hotspots in magnetic cores
-* Wireless-control of a setup of waveform generator-power amplifier-climate chamber-data loggers for measuring through a thermocouple of type-T surface temperatures of toroidal magnetic cores over excitation periods
-* Characterization of ferrite, powder and nanocrystalline cores in a B-H analyzer
-* Development of Thermal Networks (inspired by the lumped-capacitance method) for magnetic materials
-* Design of 5 and 7-level cascaded H-bridge marine power inverters of power output up to 27 kW output peak power
+* Control of a hardware setup (waveform generator-power amplifier-climate chamber-data loggers) for measuring the surface temperature of toroidal magnetic cores over excitation periods
+* Characterization of ferrite, powder and nanocrystalline cores by using B-H analyzer
+* Development of thermal networks (inspired by the lumped-capacitance method) for magnetic materials
+* Design of 5 and 9-level cascaded H-bridge marine power inverters of power output up to 27 kW
 * Electromagnetic, thermal and mechanical multiphysics optimization of a 400 V / 300 A EV traction motor for 100 Nm at 4,000 rpm
-* FPGA-based control of a 48 V BLDC motor using Pulse Width Modulation (PWM) and Field-Oriented Control (FOC)
+* FPGA-based control of a 48 V BLDC motor using PWM and FOC
 * Design, realization and bench-testing of a single-phase 15 VDC input source full-bridge inverter
-* Design of one RC-Thevenin Equivalent Circuit for a Kalman Filter of BMS 
+* Design of one RC-thevenin equivalent circuit for a kalman filter of a BMS 
 
-For more info
+Contact
 ------
-I am looking for internships or graduate jobs starting from 2026 September onward, for further discussion reach me in ipzoulakis@gmail.com
+Someone can reach me at: ipzoulakis@gmail.com
