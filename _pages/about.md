@@ -33,7 +33,7 @@ My academic path has been honored and financially supported by:
 
 Education
 ======
-* M.Sc. in "All-Electric Propulsion Systems", Uppsala University (courses, 90 credits) and ETH Zürich (thesis, 30 xredits), 2024-Present
+* M.Sc. in "All-Electric Propulsion Systems", Uppsala University (courses, 90 credits) and ETH Zürich (thesis, 30 credits), 2024-Present
   * Master thesis: Thermal modelling of magnetic cores for power electronics
   * CGPA: 4.15/5
 * Diploma in Electrical Engineering, Democritus University of Thrace (courses and thesis, 300 credits), 2018-2023
